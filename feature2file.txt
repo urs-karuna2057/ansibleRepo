@@ -2,3 +2,4 @@ new file in feature2
 Added in feature2
 changes made in local repo
 new changes made in local repo
+changes made in remote repo by another user
